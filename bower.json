@@ -1,0 +1,24 @@
+{
+  "name": "d3line",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Brenda Praggastis <bpraggastis@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "c3": "~0.4.10",
+    "d3": "~3.5.13",
+    "jquery": "~2.2.0",
+    "semantic": "~2.1.8"
+  }
+}
